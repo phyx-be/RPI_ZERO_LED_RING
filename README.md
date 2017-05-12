@@ -2,6 +2,7 @@
 
 ![RPI_ZERO_LED_RING_00_IMG1](https://raw.githubusercontent.com/phyx-be/RPI_ZERO_LED_RING/master/RPI_ZERO_LED_RING_00/IMG1.JPG)
 
+A metal core LED ring that fits the RPi Zero and Rpi Camera. By adding a heatsink or metal plate to the back, this board can run continuously at full power. (which is not possible with the [RPI_HAT_FLASH](http://phyx.be/RPI_HAT_FLASH))
 
 ## Hardware Revision 00
 
